@@ -877,8 +877,16 @@
     width: calc(var(--spacing) * 20);
   }
 
+  .w-56 {
+    width: calc(var(--spacing) * 56);
+  }
+
   .w-64 {
     width: calc(var(--spacing) * 64);
+  }
+
+  .w-80 {
+    width: calc(var(--spacing) * 80);
   }
 
   .w-fit {
@@ -1556,6 +1564,10 @@
 
   .pl-2\.5 {
     padding-left: calc(var(--spacing) * 2.5);
+  }
+
+  .pl-6 {
+    padding-left: calc(var(--spacing) * 6);
   }
 
   .pl-8 {
@@ -2288,6 +2300,10 @@
       text-decoration-line: underline;
     }
 
+    .hover\:opacity-80:hover {
+      opacity: .8;
+    }
+
     .hover\:file\:bg-primary\/90:hover::file-selector-button {
       background-color: var(--primary);
     }
@@ -2858,6 +2874,10 @@
 
     .md\:p-8 {
       padding: calc(var(--spacing) * 8);
+    }
+
+    .md\:px-6 {
+      padding-inline: calc(var(--spacing) * 6);
     }
 
     .md\:pl-64 {
