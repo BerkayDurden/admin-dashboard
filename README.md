@@ -2,6 +2,8 @@
 
 Modern ve şık bir arayüze sahip, Next.js ve Tailwind CSS ile geliştirilmiş yönetici paneli (Admin Dashboard) projesi.
 
+🌐 **Canlı Demo:** [Projseyi Canlı İncele](https://admin-dashboard-kappa-lemon-13.vercel.app)
+
 ## Özellikler
 
 - 🌙 **Tema Desteği:** Açık (Light) ve Koyu (Dark) mod seçenekleri.
@@ -22,7 +24,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/BerkayDurden/admin-dashboard.git
+git clone [https://github.com/BerkayDurden/admin-dashboard.git](https://github.com/BerkayDurden/admin-dashboard.git)
 
 # Proje klasörüne girin
 cd admin-dashboard
