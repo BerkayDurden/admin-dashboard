@@ -22,7 +22,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 
 ```bash
 # Projeyi klonlayın
-git clone [https://github.com/BerkayDurden/admin-dashboard.git](https://github.com/BerkayDurden/admin-dashboard.git)
+git clone https://github.com/BerkayDurden/admin-dashboard.git
 
 # Proje klasörüne girin
 cd admin-dashboard
